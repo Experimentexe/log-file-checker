@@ -1,0 +1,1397 @@
+{
+    "C:\\Users\\NoNam\\Videos": [
+        {
+            "type": "Dir",
+            "name": ".gallery",
+            "contents": [
+                {
+                    "type": "Dir",
+                    "name": "04ea232e-8685-4b38-a88e-276ea454b9f8",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "172fb786-60bf-422f-8a08-280ce69aba73",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "341b0a8b-279e-48b5-8607-d5e64e8d79e6",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "4c7c53f6-125e-4ea2-bcc5-8c8213eebf79",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "7b929a97-3ab7-4ea3-8190-4e982404115f",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "84f46b1b-aa4e-4af3-8b0c-240457b8bc96",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "8ff2dc43-5cdb-4512-b841-31002b8c99da",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "b8aa5232-b742-4d24-9f08-7c71f4f06d70",
+                    "contents": []
+                },
+                {
+                    "type": "Dir",
+                    "name": "d2684ed7-dd54-4373-90de-d007d5706463",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "d85db394-b5ff-4b19-b93c-d3ca5b446f7a",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "f1798d7f-337c-4ea4-9372-5292aca996e6",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "f3221788-368a-4512-b43c-b8d72a7a4e14",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "fe7af9d6-9555-4bfa-8eb5-a3fe6a1fbca4",
+                    "contents": [
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Dir",
+            "name": "CacheClip",
+            "contents": [
+                {
+                    "type": "Dir",
+                    "name": "04ea232e-8685-4b38-a88e-276ea454b9f8",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "172fb786-60bf-422f-8a08-280ce69aba73",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "341b0a8b-279e-48b5-8607-d5e64e8d79e6",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "4c7c53f6-125e-4ea2-bcc5-8c8213eebf79",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "7b929a97-3ab7-4ea3-8190-4e982404115f",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "84f46b1b-aa4e-4af3-8b0c-240457b8bc96",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "8ff2dc43-5cdb-4512-b841-31002b8c99da",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "audio",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "C_",
+                            "contents": [
+                                {
+                                    "type": "Dir",
+                                    "name": "Users",
+                                    "contents": [
+                                        {
+                                            "type": "Dir",
+                                            "name": "NoNam",
+                                            "contents": [
+                                                {
+                                                    "type": "Dir",
+                                                    "name": "Downloads",
+                                                    "contents": [
+                                                        {
+                                                            "type": "File",
+                                                            "name": "bass-sound-effect-made-with-Voicemod-technology0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "bass-sound-effect-made-with-Voicemod-technology0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "blue-sea-swoop-main-version-18177-01-140_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "blue-sea-swoop-main-version-18177-01-140_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "BRUH Sound Effect0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "BRUH Sound Effect0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Despicable Me Bass Boost Whistle Played Over Cursed Images Of Minions0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Despicable Me Bass Boost Whistle Played Over Cursed Images Of Minions0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Faze Jev Spawn Die Spawn Die Spawn Die0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Faze Jev Spawn Die Spawn Die Spawn Die0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "IMG_80100_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "IMG_80100_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Later NI-0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Later NI-0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Luke-Bergs-Take-It-Easy(chosic.com)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Luke-Bergs-Take-It-Easy(chosic.com)0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record (online-voice-recorder.com) (1)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record (online-voice-recorder.com) (2)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record (online-voice-recorder.com) (3)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record (online-voice-recorder.com) (4)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record (online-voice-recorder.com) (5)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record (online-voice-recorder.com)(1) (1)0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record Scratch Sound Effect0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Record Scratch Sound Effect0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "RPReplay_Final17082950950_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "RPReplay_Final17082950950_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Sound Effects - Oh my god bruh, oh hell naw man wtf0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Sound Effects - Oh my god bruh, oh hell naw man wtf0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "summer-strut-infraction-main-version-16209-01-170_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "summer-strut-infraction-main-version-16209-01-170_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "tropicana-soundroll-main-version-1725-02-150_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "tropicana-soundroll-main-version-1725-02-150_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Tyler1's Car Impression Sound Effect0_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Tyler1's Car Impression Sound Effect0_1.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "VIDEO-2024-03-18-21-10-220_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "VIDEO-2024-03-18-21-10-220_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Video0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Video0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "WhatsApp Video 2023-11-21 at 2.18.33 AM0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "WhatsApp Video 2023-11-21 at 2.18.33 AM0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "WhatsApp Video 2024-01-22 at 8.02.41 PM0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "WhatsApp Video 2024-01-22 at 8.02.41 PM0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "your-adrenaline-paul-yudin-main-version-19153-01-560_0.mp3.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "your-adrenaline-paul-yudin-main-version-19153-01-560_1.mp3.pfl"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "Dir",
+                                                    "name": "OneDrive",
+                                                    "contents": [
+                                                        {
+                                                            "type": "Dir",
+                                                            "name": "Pictures",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "Dir",
+                                                                    "name": "SeniorDesign",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "File",
+                                                                            "name": "WIN_20240122_20_39_14_Pro0_0.mp4.pfl"
+                                                                        },
+                                                                        {
+                                                                            "type": "File",
+                                                                            "name": "WIN_20240122_20_39_14_Pro0_1.mp4.pfl"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "WIN_20240122_20_08_09_Pro0_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "WIN_20240122_20_08_09_Pro0_1.mp4.pfl"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "Dir",
+                                                    "name": "Videos",
+                                                    "contents": [
+                                                        {
+                                                            "type": "File",
+                                                            "name": "2023-03-14 00-32-200_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "2023-03-14 00-32-200_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "2023-03-25 11-55-190_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "2023-03-25 11-55-190_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "Dir",
+                                                            "name": "Captures",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "audio14088499330_0.m4a.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "video14088499330_0.mp4.pfl"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr - Copy0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr - Copy0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr - Copy1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr - Copy1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.08.59.05.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.10.35.06.Dvr(1)0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.10.35.06.Dvr(1)0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.10.35.06.Dvr(1)1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.10.35.06.Dvr(1)1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.10.35.06.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.10.35.06.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.11.24.07.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.11.24.07.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.11.24.07.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.11.24.07.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.15.39.09.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.15.39.09.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.15.39.09.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.15.39.09.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.16.08.10.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.16.08.10.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.16.08.10.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.16.08.10.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.24.22.12.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.24.22.12.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.24.22.12.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.24.22.12.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.25.22.13.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.25.22.13.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.25.22.13.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.25.22.13.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.28.32.14.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.28.32.14.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.28.32.14.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.28.32.14.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.41.25.18.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.41.25.18.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.41.25.18.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.41.25.18.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.43.25.19.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.43.25.19.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.43.25.19.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.43.25.19.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.21.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.21.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.21.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.21.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.220_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.220_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.221_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.49.00.221_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr - Copy0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr - Copy0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr - Copy1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr - Copy1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr0_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr0_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr1_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Desktop 2023.08.20 - 15.52.21.25.Dvr1_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Presentation10_0.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "File",
+                                                            "name": "Presentation10_1.mp4.pfl"
+                                                        },
+                                                        {
+                                                            "type": "Dir",
+                                                            "name": "Senior_Design Porject",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Editplz0_0.mp3.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "funcprototype - Copy0_0.mp3.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "funcprototype0_0.mp3.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74360_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74360_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74390_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74390_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74410_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74410_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74410_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74410_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74420_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74420_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74450_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74450_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74470_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "IMG_74470_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Record (online-voice-recorder.com) (2)0_0.mp3.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Record (online-voice-recorder.com) (3)0_0.mp3.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Senior_Design_SBWM0_0.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Senior_Design_SBWM0_1.mp4.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "SnippetCode0_0.mp3.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video0_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video0_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_10_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_10_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_20_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_20_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_30_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_30_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_40_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_40_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_50_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_50_1.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_60_0.mov.pfl"
+                                                                },
+                                                                {
+                                                                    "type": "File",
+                                                                    "name": "Video_60_1.mov.pfl"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Dir",
+                            "name": "D_",
+                            "contents": [
+                                {
+                                    "type": "Dir",
+                                    "name": "vIDS",
+                                    "contents": [
+                                        {
+                                            "type": "File",
+                                            "name": "2024-01-03 22-18-410_0.mp4.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "2024-01-03 22-18-410_1.mp4.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "2024-01-03 22-21-300_0.mp4.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "2024-01-03 22-21-300_1.mp4.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "2024-02-20 13-42-100_0.mp4.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "2024-02-20 13-42-100_1.mp4.pfl"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Dir",
+                            "name": "fairlightProfiles",
+                            "contents": [
+                                {
+                                    "type": "Dir",
+                                    "name": "0",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "1",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "2",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "5",
+                                    "contents": [
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_fa7284e0-1200-4671-a520-e09a4a5be645_80004001.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_fa7284e0-1200-4671-a520-e09a4a5be645_80004002.pfl"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "6",
+                                    "contents": [
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_6b36a62c-0efe-43bb-8197-c90aefc61666_80004001.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_6b36a62c-0efe-43bb-8197-c90aefc61666_80004002.pfl"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "7",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "8",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "a",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "b",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "c",
+                                    "contents": [
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_e1860b8d-d295-4b05-af5b-aa12345d7a2c_80004001.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_e1860b8d-d295-4b05-af5b-aa12345d7a2c_80004002.pfl"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "d",
+                                    "contents": []
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "e",
+                                    "contents": [
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_1e9e5640-7d93-4a47-8033-1a11347dedee_80004001.pfl"
+                                        },
+                                        {
+                                            "type": "File",
+                                            "name": "FLP_1e9e5640-7d93-4a47-8033-1a11347dedee_80004002.pfl"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "Dir",
+                                    "name": "f",
+                                    "contents": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Dir",
+                            "name": "F_",
+                            "contents": [
+                                {
+                                    "type": "Dir",
+                                    "name": "Replays",
+                                    "contents": [
+                                        {
+                                            "type": "Dir",
+                                            "name": "Desktop",
+                                            "contents": [
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.11.24.07.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.11.24.07.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.12.41.08.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.12.41.08.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.16.08.10.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.16.08.10.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.28.32.14.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.28.32.14.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.34.37.15.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.34.37.15.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.41.25.18.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.41.25.18.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.43.25.19.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.43.25.19.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.49.00.21.DVR0_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.49.00.21.DVR0_1.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.49.00.220_0.mp4.pfl"
+                                                },
+                                                {
+                                                    "type": "File",
+                                                    "name": "Desktop 2023.08.20 - 15.49.00.220_1.mp4.pfl"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "d2684ed7-dd54-4373-90de-d007d5706463",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "d85db394-b5ff-4b19-b93c-d3ca5b446f7a",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "f1798d7f-337c-4ea4-9372-5292aca996e6",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "f3221788-368a-4512-b43c-b8d72a7a4e14",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                },
+                {
+                    "type": "Dir",
+                    "name": "fe7af9d6-9555-4bfa-8eb5-a3fe6a1fbca4",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "audio",
+                            "contents": []
+                        },
+                        {
+                            "type": "File",
+                            "name": "Info.txt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Dir",
+            "name": "Captures",
+            "contents": [
+                {
+                    "type": "File",
+                    "name": "desktop.ini"
+                }
+            ]
+        },
+        {
+            "type": "File",
+            "name": "desktop.ini"
+        },
+        {
+            "type": "File",
+            "name": "Old_Vids.zip"
+        },
+        {
+            "type": "Dir",
+            "name": "Overwolf",
+            "contents": [
+                {
+                    "type": "Dir",
+                    "name": "Outplayed",
+                    "contents": [
+                        {
+                            "type": "Dir",
+                            "name": "GTFO",
+                            "contents": [
+                                {
+                                    "type": "Dir",
+                                    "name": "GTFO_04-27-2023_20-9-33-884",
+                                    "contents": [
+                                        {
+                                            "type": "File",
+                                            "name": "GTFO_04-27-2023_20-13-15-239.mp4"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Dir",
+                            "name": "temp-capture",
+                            "contents": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Dir",
+            "name": "Senior_Design Porject",
+            "contents": [
+                {
+                    "type": "File",
+                    "name": "BO_App_Screenshot.jpg"
+                },
+                {
+                    "type": "File",
+                    "name": "BO_App_Screenshot_2.jpg"
+                },
+                {
+                    "type": "File",
+                    "name": "Editplz.mp3"
+                },
+                {
+                    "type": "File",
+                    "name": "funcprototype - Copy.mp3"
+                },
+                {
+                    "type": "File",
+                    "name": "funcprototype.mp3"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7436.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7437.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7439.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7441.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7442.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7445.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "IMG_7447.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "ProgressUpdat.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Project_Demo.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Project_Demonstration.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Project_Demo_Final.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Record (online-voice-recorder.com) (2).mp3"
+                },
+                {
+                    "type": "File",
+                    "name": "Record (online-voice-recorder.com) (3).mp3"
+                },
+                {
+                    "type": "File",
+                    "name": "Screenshot 2023-10-16 at 22-24-54 Bright outlet - Bright outlet (1).pdf.png"
+                },
+                {
+                    "type": "File",
+                    "name": "Screenshot 2023-10-16 at 22-25-44 Bright outlet - Bright outlet (1).pdf.png"
+                },
+                {
+                    "type": "File",
+                    "name": "SD2_BO.png"
+                },
+                {
+                    "type": "File",
+                    "name": "Senior Desgin Progess Update 2.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Senior Design Project Update 2.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Senior Design PU3.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "Senior_Design_SBWM.mp4"
+                },
+                {
+                    "type": "File",
+                    "name": "SnippetCode.mp3"
+                }
+            ]
+        }
+    ]
+}
